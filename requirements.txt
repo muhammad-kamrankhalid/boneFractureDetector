@@ -1,6 +1,5 @@
-streamlit
-ultralytics
-torch
-Pillow
-opencv-python
-numpy
+streamlit==1.35.0
+ultralytics==8.2.14
+torch>=2.0
+Pillow>=9.5.0
+opencv-python>=4.8.0
